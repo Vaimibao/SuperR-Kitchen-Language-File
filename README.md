@@ -29,7 +29,7 @@ $ ./superr
 
 # 注意Deepin Linux用的有问题
 
-解决办法：编辑/tools/dependencies 删除getcap
-superr文件里搜索getcap替换为cp
+解决办法：编辑/tools/dependencies 删除getcap 
+ 同时superr文件里搜索getcap替换为cp
 
 # 捐赠版本详情见XDA原帖
