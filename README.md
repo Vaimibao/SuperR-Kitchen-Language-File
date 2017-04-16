@@ -14,9 +14,13 @@
 #同步SuperR Kitchen
 
 $ mkdir ~/SuperR-Kitchen
+
 $ cd ~/SuperR-Kitchen
+
 $ git clone https://bitbucket.org/superr/superrs-kitchen.git
+
 $ cd superrs-kitchen
+
 $ ./superr
 
 然后替换语言文件
