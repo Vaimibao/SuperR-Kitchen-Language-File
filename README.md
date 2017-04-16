@@ -10,3 +10,15 @@
 所有版权归SuperR拥有/Copyright is owned by SuperR
 
 厨房XDA链接：https://forum.xda-developers.com/chef-central/android/kitchen-superrs-kitchen-t3202296
+
+#同步SuperR Kitchen
+
+$ mkdir ~/SuperR-Kitchen
+$ cd ~/SuperR-Kitchen
+$ git clone https://bitbucket.org/superr/superrs-kitchen.git
+$ cd superrs-kitchen
+$ ./superr
+
+然后替换语言文件
+
+捐赠版本详情见XDA原帖
