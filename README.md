@@ -19,11 +19,13 @@ $ cd ~/SuperR-Kitchen
 
 $ git clone https://bitbucket.org/superr/superrs-kitchen.git
 
+然后替换语言文件
+
 $ cd superrs-kitchen
 
 $ ./superr
 
-然后替换语言文件
+
 
 # 注意Deepin Linux用的有问题
 
