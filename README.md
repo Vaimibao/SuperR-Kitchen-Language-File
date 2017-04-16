@@ -1,6 +1,8 @@
 # SuperR-Kitchen-Language-File
 #所有汉化均由曦颜XY独立完成
+
 #原作者：SuperR
+
 #修订版本：Beta1.1.0_17.4.16
 汉化SuperR厨房的语言文件：替换位置/tools/language/
 
