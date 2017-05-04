@@ -9,7 +9,7 @@
 如有汉化建议请联系本人微博：曦顏XY
 所有版权归SuperR拥有/Copyright is owned by SuperR
 
-厨房XDA链接：https://forum.xda-developers.com/chef-central/android/kitchen-superrs-kitchen-t3202296
+厨房XDA链接：https://forum.xda-developers.com/apps/superr-kitchen/kitchen-superr-s-kitchen-v1-1-50-v2-1-6-t3597434
 
 # 同步SuperR Kitchen
 
