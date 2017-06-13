@@ -15,53 +15,56 @@
 
 Open your terminal to the location where you want the kitchen to reside. Enter the following commands one by one pressing ENTER after each line.（先创建一个你想放厨房的空文件夹，然后根据Linux不同输不同命令）
 
-You must have git-lfs installed. Follow the appropriate instructions below.
+First：
+
+You must have git-lfs installed. Follow the appropriate instructions below.（必须安装git-lfs，看下面）
 
 1. Ubuntu and Debian based systems:
 
-Code:
+   Code:
 
-$ curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
+       $  curl -s https://packagecloud.io/install/repositories/github/git-lfs/script.deb.sh | sudo bash
 
-$ sudo apt-get install git-lfs
+       $  sudo apt-get install git-lfs
 
-$ git lfs install
+       $  git lfs install
 
-$ git config --global credential.helper cache
+       $  git config --global credential.helper cache
 
-2. Others:
+2. Other Linux: 
+   Download and install from https://github.com/git-lfs/git-lfs/releases
 
-Download and install from https://github.com/git-lfs/git-lfs/releases
+       Code:
 
-Code:
+       $  git lfs install
 
-$ git lfs install
+NEXT：
 
-Clone and run(下载代码并运行):
+   Clone and run(下载代码并运行):
 
-Code:
+       Code:
 
-$ mkdir ~/SuperR-Kitchen
+       $  mkdir ~/SuperR-Kitchen
 
-$ cd ~/SuperR-Kitchen
+       $  cd ~/SuperR-Kitchen
 
-$ git clone https://bitbucket.org/superr/superrs-kitchen.git
+       $  git clone https://bitbucket.org/superr/superrs-kitchen.git
 
-然后替换语言文件
+       然后替换语言文件
 
-$ cd superrs-kitchen
+       $  cd superrs-kitchen
 
-$ ./superr
+       $  ./superr
 
-当然如果你想简单粗暴下载厨房，请转下载厨房打包好的zip，替换中文文件
+当然如果你想简单粗暴下载厨房，请转下载厨房打包好的zip，替换中文文件：
 Link/链接：http://srk.ddayweb.com/
 
 # 注意Deepin Linux用的有问题
 
 解决办法：
 
-1. 编辑/tools/dependencies 删除getcap 
+      1. 编辑/tools/dependencies 删除getcap 
 
-2. 同时superr文件里搜索getcap替换为cp
+      2. 同时superr文件里搜索getcap替换为cp
 
 # 捐赠版本详情见XDA原帖
