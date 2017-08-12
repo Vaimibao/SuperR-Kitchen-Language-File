@@ -3,7 +3,7 @@
 
 # 原作者：SuperR
 
-# 修订版本：Beta1.1.0_17.4.16
+# 修订版本：Beta1.1.1_17.08.12
 汉化SuperR厨房的语言文件：替换位置/tools/language/
 
 如有汉化建议请联系本人微博：曦顏XY
@@ -63,8 +63,6 @@ Link/链接：http://srk.ddayweb.com/
 
 解决办法：
 
-      1. 编辑/tools/dependencies 删除getcap 
-
-      2. 同时superr文件里搜索getcap替换为cp
+       getcap问题提交SuperR修正
 
 # 捐赠版本详情见XDA原帖
