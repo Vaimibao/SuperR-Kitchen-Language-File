@@ -1,5 +1,5 @@
 #所有汉化均由曦颜XY独立完成
-#修订版本：Beta1.1.0_17.4.16
+#修订版本：Beta1.1.0_17.08.12
 #如有汉化建议请联系本人微博：曦顏XY
 #原作者：SuperR
 #XDA链接：https://forum.xda-developers.com/chef-central/android/kitchen-superrs-kitchen-t3202296
@@ -329,9 +329,6 @@ export t_deodex_need_64_bit="您需要64位Linux才能使用此功能"
 export t_deodex_need_oatdump="你需要oddump继续."
 export t_deodex_oatdump_dl_m="(大约下载105MB)"
 export t_deodex_dl_install="正在下载/安装 ..."
-export t_deodex_oatdump_dl_failed="oatdump下载失败."
-export t_deodex_oatdump_dl_install_failed="oatdump下载/安装失败."
-export t_deodex_oatdump_dl_n="(大约下载70MB)"
 export t_deodex_no_api="无法检测Android版本."
 export t_deodex_config_arch="配置设备的arch.\n\n提示:\n检查framework文件夹, 里面可以看到另一个文件夹. \n文件夹的名字可能是以下之一\n(ex. arm, arm64, x86).\n\n如果这里有问题, 检查以下问题:\n\n1. 确保输入的arch变量是正确的.\n2. 确保ROM没有deodexed.\n\n输入设备的arch并且按回车继续."
 export t_deodex_extract_txt="提取odex文件 ..."
