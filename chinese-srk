@@ -1,5 +1,5 @@
 #所有汉化均由曦颜XY独立完成
-#修订版本：Beta1.1.1_17.08.12
+#修订版本：Beta1.2.0_17.11.26
 #如有汉化建议请联系本人微博：曦顏XY
 #原作者：SuperR
 #XDA链接：https://forum.xda-developers.com/chef-central/android/kitchen-superrs-kitchen-t3202296
@@ -17,6 +17,7 @@ export t_menu_updates="检查更新"
 export t_menu_misc="Misc工具"
 export t_menu_boot_recovery="Boot/Recovery工具"
 export t_menu_rom_tools="ROM工具菜单"
+export t_menu_donate="获得Windows/Linux捐赠版本!"
 export t_menu_new="新项目"
 export t_menu_quit="退出"
 export t_menu_back="返回"
@@ -42,6 +43,7 @@ export t_startup_tool_prep="准备工具 ..."
 export t_startup_tool_fail="无法建立一个或多个工具."
 export t_startup_install_info="安装以下软件包可以有点帮助:"
 export t_startup_cygwin_bin="你需要添加以下的cygwin兼容的二进制文件,"
+export t_startup_bin="您需要厨房所需?依赖环境哦～"
 export t_startup_copy_extract="${redt}复制你的ROM到以下目录并选择${bold}选项4$normal ${redt}去解压:$normal"
 export t_startup_title_no_projects="${bluet}当前项目:$normal $redb$whitet${bold}这木有项目.$normal"
 export t_startup_title_no_rom="安卓版本: ${redt}No ROM"
@@ -219,6 +221,7 @@ export t_menu_zip_devices="Zip新设备并分享"
 export t_menu_language="重置语言"
 export t_menu_heapsize="heapsize菜单"
 export t_menu_support="支持: 创建zip发送"
+export t_menu_reset="重置所有工具"
 export t_menu_binaries="更新二进制文件"
 export t_support_create="创建support.zip..."
 export t_support_finish="support.zip已在您的项目目录中创建"
@@ -461,13 +464,10 @@ export t_zipdev_no_new="设备目录中没有新设备."
 export t_wsl_warn="在Windows Subsystem for Linux（WSL）\n中运行时，可能无法挂载/提取映像\n。可能会出现意外的结果"
 
 # Binary install
-export t_binary_osbit_installing="正在安装位库..."
-export t_binary_osbit_installed="位库已安装"
+export t_binary_installing="正在安装依赖库文件..."
+export t_binary_installed="依赖库文件已安装"
 export t_cygwin_info="因为你不是在本地Linux中运行, 所有的\n速度将会变得死慢. 准备updater-script和\n 创建的symlink是最明显的例子."
-export t_binary_cygwin_installing="正在安装 cygwin 库..."
-export t_binary_cygwin_installed="cygwin 库已安装"
-export t_binary_q="无论如何要安装库吗?  y/n  "
-export t_binary_cygwin_q="现在要安装 cygwin 库吗?  y/n  "
+export t_binary_q="现在要安装所需依赖库文件?  y/n  "
 
 # Kitchen updater
 export t_update_check_kitchen="检查更新 ..."
@@ -492,6 +492,7 @@ export t_update_no_internet="厨房无法检测到互联网连接."
 export t_update_fail="更新时出现问题.如果您修改了除项目之外的\n任何厨房文件，您可以恢复更改并重试，或者\n重新git clone厨房."
 export t_update_q="你想现在更新吗?  y/n  "
 export t_update_auto_q="你想在厨房启动时检查更新?  y/n  "
+export t_restart="厨房需要重启一下哟～"
 
 # New Project
 export t_new_q="请输入新项目名称(${yellowt}空格会自动替换为_XXX$normal):"
