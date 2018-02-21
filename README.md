@@ -3,13 +3,11 @@
 
 # 原作者：SuperR
 
-# 修订版本：Beta1.2.0_17.11.26
+# 修订版本：Beta1.3.0_18.02.21
 汉化SuperR厨房的语言文件：替换位置/tools/language/
 
 如有汉化建议请联系本人微博：曦顏XY
 所有版权归SuperR拥有/Copyright is owned by SuperR
-
-厨房XDA链接：https://forum.xda-developers.com/apps/superr-kitchen/kitchen-superr-s-kitchen-v1-1-50-v2-1-6-t3597434
 
 # 同步安装SuperR Kitchen
 
@@ -37,4 +35,10 @@ First：
 Link/链接：http://srk.ddayweb.com/
 
 
-# 捐赠版本详情见XDA原帖
+# 捐赠版本：需要PayPal和15美元
+
+<b>* 版本特点是提供Windows环境版本，捐赠的Linux版本</b>
+
+*捐赠版本附加功能见该贴3楼：https://forum.xda-developers.com/apps/superr-kitchen/kitchen-superr-s-kitchen-v1-1-50-v2-1-6-t3597434
+
+*捐赠版本的帖子：https://forum.xda-developers.com/apps/superr-kitchen/windows-linux-superr-s-kitchen-v3-0-0-0-t3601702
