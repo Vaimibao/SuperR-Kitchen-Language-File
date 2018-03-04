@@ -3,36 +3,22 @@
 
 # 原作者：SuperR
 
-# 修订版本：Beta1.3.0_18.02.21
-汉化SuperR厨房的语言文件：替换位置/tools/language/
+# 修订版本：Ver1.0.0_18.03.04
 
 如有汉化建议请联系本人微博：曦顏XY
 所有版权归SuperR拥有/Copyright is owned by SuperR
 
-# 同步安装SuperR Kitchen
+# 本文件只用于捐赠版的厨房
 
-Open your terminal to the location where you want the kitchen to reside. Enter the following commands one by one pressing ENTER after each line.（先创建一个你想放厨房的空文件夹，然后根据Linux不同输不同命令）
-
-First：
-
-   Clone and run(下载代码并运行):
-
-       Code:
-
-       $  mkdir ~/SuperR-Kitchen
-
-       $  cd ~/SuperR-Kitchen
-
-       $  git clone https://bitbucket.org/superr/superrs-kitchen.git
-
-       然后替换语言文件
-
-       $  cd superrs-kitchen
-
-       $  ./superr
-
-当然如果你想简单粗暴下载厨房，请转下载厨房打包好的zip，替换中文文件：
-Link/链接：http://srk.ddayweb.com/
+  中文实现方法：
+  
+  1.复制chinese_srk.py到/tools/language
+  
+  2.厨房截止18.03.04，存在一个BUG，无法正确读取中文字符，
+  
+    修改方法是到/tools/source里用Notepad打开srktools.py，看图1，在那里添加：,encoding='UTF-8'，不要丢了逗号
+	
+  3.双击superr.exe--6--2--回车--r--选择chinese(本操作是重设语言)即可完成汉化
 
 
 # 捐赠版本：需要PayPal和15美元
@@ -42,3 +28,7 @@ Link/链接：http://srk.ddayweb.com/
 *捐赠版本附加功能见该贴3楼：https://forum.xda-developers.com/apps/superr-kitchen/kitchen-superr-s-kitchen-v1-1-50-v2-1-6-t3597434
 
 *捐赠版本的帖子：https://forum.xda-developers.com/apps/superr-kitchen/windows-linux-superr-s-kitchen-v3-0-0-0-t3601702
+
+![xiyan](https://static.oschina.net/uploads/space/2018/0304/205034_W8HG_2700265.png "xiyan")
+
+![xiyan](https://static.oschina.net/uploads/space/2018/0304/205036_oCQY_2700265.png "xiyan")
