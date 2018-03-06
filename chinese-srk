@@ -175,6 +175,10 @@ export t_menu_initd="添加/删除 init.d 支持"
 export t_menu_insecure="Insecure/Secure boot.img"
 export t_menu_dmverity="删除 dm-verity"
 export t_menu_forcee="添加/删除 forceencrypt"
+export t_menu_deopatch="Patch sepolicy--安卓Oreo deodex操作"
+export t_menu_deopatch_add="sepolicy 已经patch了--Oreo deodex操作
+export t_menu_deopatch_none="sepolicy没看到啊"
+export t_menu_deopatch_fail="Patch失败, 可能sepolicy 已经patch了."
 export t_menu_unpack="解包"
 export t_menu_boot_flashable="构建此img单刷包:"
 export t_menu_switch_boot="在之间切换boot/recovery"
@@ -451,6 +455,7 @@ export t_byname_manual_info="您将需要手动在updater-script中输入分区�
 
 # Signature
 export t_sig_info="${bluet}这个问题的答案将显示当zip创建时\n刷入的zip和将被转换为zip的名称，$normal\n\n你的zip的名称是?"
+export t_sig_error="不要在zip名中使用"
 export t_donate_sig_cust="${bluet}这一个将显示在下面的zip名称，\n当刷入时 SuperR's Kitchen创建声明的标准版本.$normal\n\n你的签名是什么?"
 
 # Zip devices
@@ -493,6 +498,7 @@ export t_update_fail="更新时出现问题.如果您修改了除项目之外的
 export t_update_q="你想现在更新吗?  y/n  "
 export t_update_auto_q="你想在厨房启动时检查更新?  y/n  "
 export t_restart="厨房需要重启一下哟～"
+export t_tools_dl_failed="工具下载失败:"
 
 # New Project
 export t_new_q="请输入新项目名称(${yellowt}空格会自动替换为_XXX$normal):"
