@@ -373,6 +373,7 @@ deodex_del_meta_inf_q3 = 从apk文件中删除META-INF应该可以解决这个�
 deodex_del_meta_inf_q4 = "您是否要从ROM中的所有apk文件中"
 deodex_del_meta_inf_q5 = "删除META-INF目录?  y/n  "
 deodex_del_meta_inf = "从apk的删除META-INF..."
+deodex_del_arch = "是否删除下列的framework文件夹?  y/n"
 deodex_pack_jar = "将dex包装到jar文件中..."
 
 # Extract
