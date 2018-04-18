@@ -3,7 +3,7 @@
 
 # 原作者：SuperR
 
-# 修订版本：Ver1.0.2_18.03.24
+# 修订版本：Ver1.0.3_18.04.18
 
 如有汉化建议请联系本人微博：曦顏XY
 所有版权归SuperR拥有/Copyright is owned by SuperR
