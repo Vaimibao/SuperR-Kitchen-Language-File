@@ -3,7 +3,7 @@
 
 # 原作者：SuperR
 
-# 修订版本：Ver1.0.3_18.04.18
+# 修订版本：Ver1.1.0_18.06.30
 
 如有汉化建议请联系本人微博：曦顏XY
 所有版权归SuperR拥有/Copyright is owned by SuperR
@@ -21,7 +21,7 @@
 
 # 捐赠版本：需要PayPal和15美元
 
-<b>* 版本特点是提供Windows环境版本，捐赠的Linux版本</b>
+<b>* 版本特点是提供Windows环境版本，捐赠的Linux版本，MAC环境版本</b>
 
 *捐赠版本附加功能见该贴3楼：https://forum.xda-developers.com/apps/superr-kitchen/kitchen-superr-s-kitchen-v1-1-50-v2-1-6-t3597434
 
