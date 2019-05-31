@@ -12,7 +12,7 @@
 # 下载SuperR Kitchen
 
 下载厨房，请转下载厨房打包好的zip，替换中文文件：
-Link/链接：http://sr-code.com/next/srkfree
+Link/链接：https://srkfree.sr-code.com/
 
 汉化SuperR厨房的语言文件：替换位置/tools/language/
 
