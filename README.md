@@ -3,7 +3,7 @@
 
 # 原作者：SuperR
 
-# 修订版本：Ver3.0_19.04.15
+# 修订版本：Ver4.0_20.1.1
 
 如有汉化建议请联系本人微博：曦顏XY
 所有版权归SuperR拥有/Copyright is owned by SuperR
@@ -14,7 +14,7 @@
   
   1.复制chinese_srk.py到/tools/language
   
-  2.或者在第一次u运行 ./superr 后  选择 d (Download language) ，选择4 下载Chinese 即可
+  2.或者在第一次运行 ./superr 后  选择 d (Download language) ，选择对应数字 下载Chinese 即可
 	
   3.如果已经运行了，运行后-6--2--回车--r--d(下载语言文件)--选择chinese(本操作是重设语言)即可完成汉化
 
