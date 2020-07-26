@@ -3,15 +3,14 @@
 
 # 原作者：SuperR
 
-# 修订版本：Ver3.0_2020.01.01 元旦 新年快乐！
+# 修订版本：Ver4.0_2020.07.27 
 
-
-如有汉化建议请联系本人微博：曦顏XY
+如有汉化建议请联系本人新浪微博：曦顏XY
 所有版权归SuperR拥有/Copyright is owned by SuperR
 
 # 下载SuperR Kitchen
 
-下载厨房，请转下载厨房打包好的zip，替换中文文件：
+下载厨房，请转下载厨房打包好的zip，替换中文文件(免费版我没用过了，好像也可以云端下载汉化文件)：
 Link/链接：https://srkfree.sr-code.com/
 
 汉化SuperR厨房的语言文件：替换位置/tools/language/
