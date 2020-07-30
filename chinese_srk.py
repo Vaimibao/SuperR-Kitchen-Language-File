@@ -578,7 +578,7 @@ update_verify = "检查所有文件校验码中 ..."
 update_local = "是否安装本地更新安装包?  y/n"
 
 # New Project
-new_q = "请输入新项目名称(就是在厨房目录下生成文件夹时添加的, 例如: superr_输入的项目名称)："
+new_q = "请输入新项目名称(项目名例如: superr_这里是你终端输入的内容)："
 new_already = "已有相同名称的项目"
 
 # Plugin
