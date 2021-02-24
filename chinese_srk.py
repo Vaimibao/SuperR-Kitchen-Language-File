@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 翻译：曦颜XY 更新于：2020年06月21日 农历五月初一 父亲节
+# 翻译：曦颜XY 更新于：2021年02月24日 农历正月十三 春节
 # 新浪微博 : https://weibo.com/xiyan1996
 # B站：曦颜XY
 
@@ -57,6 +57,12 @@ startup_checksum = "以下文件可能损坏了:"
 startup_environ_error = "ε=(´ο｀*)))唉，当前系统环境下无法运行厨房"
 startup_vdisk_error = "厨房无法在Live模式下的虚拟磁盘上运行"
 startup_remdisk_error = "厨房无法在Live模式下在可移动磁盘上运行"
+startup_wsl_warning = "你正在WSL1上运行厨房工具."
+startup_wsl_warning2 = "建议使用WSL2, 因为WSL2有更好的兼容性。"
+startup_wsl2_warning = "厨房工具没在/home目录下运行."
+startup_wsl2_warning2 = "这可能会导致Windows权限问题和运行缓慢。"
+startup_win_warning = "本地版的Windows厨房将逐步停更。"
+startup_win_warning2 = "WSL2是在Windows中运行Linux厨房的最佳方式。"
 
 # Build
 menu_build_zip = "创建新的ROM文件"
@@ -220,6 +226,10 @@ menu_support = "支持: 创建zip发送"
 menu_zip_devices = "压缩devices/capfiles文件夹并分享"
 menu_ubinary = "update-binary选项"
 menu_flashable = "刷机包zip文件选项(全局)"
+menu_extract_options = "提取选项"
+menu_mount_extract = "对img文件使用挂载方式提取"
+menu_case_fix = "不区分大小写的文件名修复"
+menu_extract_all_img = "提取并包含所有img文件"
 menu_tools_reset = "重置所有工具"
 menu_tools_reset_go = "移除所有工具中 ..."
 menu_device_reset = "升级已知机型数据库(就是全世界ROM大佬用厨房处理过的手机型号)"
@@ -541,7 +551,7 @@ zipdev_finished = "device zip已创建："
 zipdev_upload = "你想要现在去上传, 然后就可以"
 zipdev_upload2 = "添加到云端数据库供其他人使用?  y/n"
 support_upload = "你要现在上传support zip 吗?  y/n"
-xdauser_q = "你的XDA论坛用户名是(如果你没有就输入guest) ?"
+xdauser_q = "你的XDA论坛用户名是(如果你没有就空着) ?"
 zipdev_no_new = "device目录中没有你处理的新的手机型号。"
 
 # Kitchen updater
@@ -576,6 +586,7 @@ update_cred_fail3 = "============"
 update_reg_address = "下载地址:https://sr-code.com/reg.php"
 update_verify = "检查所有文件校验码中 ..."
 update_local = "是否安装本地更新安装包?  y/n"
+update_latest_version = "不是最新的版，最新版是"
 
 # New Project
 new_q = "请输入新项目名称(项目名例如: superr_这里是你终端输入的内容)："
